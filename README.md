@@ -100,7 +100,7 @@ The project allows managing courses, users, categories, languages, lessons, enro
 
 <p align="center">
   <a href="https://github.com/MoonCrow03/Backend_Coursefy">
-    <img src="https://i0.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-boot.png?resize=600%2C315&ssl=1" width=900>
+    <img src="https://github.com/user-attachments/assets/4f757592-82de-4235-a6ea-d855a4899933" width=900>
   </a>
 </p>
 <p align="center">Click the image to check out Protube!</p>
