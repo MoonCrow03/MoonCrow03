@@ -75,7 +75,7 @@ Awarded “Most Fun” at the Ludi Awards 2023 (1st Edition), _Actualicat_ is a 
 ### Protube
 ***Full-Stack Developer & Team Coordinator***
 
-Developed a web application using React and Agile methodologies as part of a collaborative university project.
+Developed a web application using React and Agile methodologies.
 
 * **Team Leadership**: Managed communication and task assignment among team members, ensuring efficient collaboration and timely delivery of project milestones.
 * **Full-Stack Development**: Programmed both front-end (React) and back-end components, ensuring seamless integration and functionality across the application.
@@ -94,7 +94,7 @@ Developed a web application using React and Agile methodologies as part of a col
 ### CourseFy
 ***Backend Developer***
 
-Developed a REST API built with Spring Boot to manage an online course platform as part of a collaborative university project.
+Developed a REST API built with Spring Boot to manage an online course platform.
 
 The project allows managing courses, users, categories, languages, lessons, enrollments, and reviews, as well as performing searches and queries on student progress.
 
